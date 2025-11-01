@@ -4,8 +4,8 @@
 This project was developed as part of the **Big Data Analytics Intern program** at **Kimia Farma**, one of Indonesia’s oldest and leading pharmaceutical companies.  
 The goal of this project is to analyze Kimia Farma’s **business performance from 2020 to 2023** using **Google BigQuery** and visualize the insights through an **interactive dashboard in Looker Studio**.
 
-🔗 **View the full interactive dashboard here:**  
-👉 [Kimia Farma Performance Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/6e7827d6-5b4e-4e5e-b87b-3ba3b3e4afc4)
+🔗 **Dashboard preview available in this presentation:**  
+👉 [Kimia Farma Performance Dashboard (2020–2023)](https://www.canva.com/design/DAG2ni9mXuk/8jEgzSL3HZSiqu0paqHy3A/view?utm_content=DAG2ni9mXuk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f6721c2ba)
 
 ---
 
