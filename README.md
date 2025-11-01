@@ -115,6 +115,7 @@ FROM ft
 LEFT JOIN p ON ft.product_id = p.product_id
 LEFT JOIN kc ON ft.branch_id = kc.branch_id
 LEFT JOIN i ON ft.branch_id = i.branch_id AND ft.product_id = i.product_id;
+```
 
 ## 📊 Dashboard Insights
 
